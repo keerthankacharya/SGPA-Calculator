@@ -31,3 +31,7 @@ h1 {
 .calc-btn {
     padding: 20px;
 }
+
+input{
+    text-align: center;
+}
